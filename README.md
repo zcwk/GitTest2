@@ -5,7 +5,7 @@
 
 然后自己搜索一下发现用这种方法可以上传成功  把右边的Auth type下拉选项改为token，然后点击Create API token ，测试一下就好了
 
-后来我又发现我吧Auth type 改为password后既然也能成功的拉取代码了。我晕。
+后来我又发现我吧Auth type 改为password后既然也能成功的拉取和上传代码了。我晕。
 
 <img src="test1.jpg"/>
 
